@@ -1,0 +1,9 @@
+{
+    "emmet.excludeLanguages": [],
+    "emmet.includeLanguages": {
+        "": "",
+        "\"vue-html\"": "\"html\"",
+        "\"javascript\"": "\"javascript\"",
+        "\"javascriptreact\"": "\"javascriptreact\""
+    }
+}
